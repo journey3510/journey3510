@@ -33,5 +33,5 @@
 
 ## api 后端接口
 
-珠宝购物的后端项目，负责前端及后台管理系统接口的编写。基于 PHP 的Lumen框架 + MySQL + Redis实现。
+珠宝购物的后端项目，负责用户端及后台管理系统接口的编写。基于 PHP 的Lumen框架 + MySQL + Redis实现。
 > 接口地址：http://api.journey3510.ltd 
